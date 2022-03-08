@@ -1,3 +1,9 @@
 *.csv
 *.zip
 *.png
+*.gdbindexes
+*.gdbtable
+*.gdbtablx
+*.atx
+*.freelist
+*.gdb
